@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saivenkat288](https://github.com/saivenkat288)
 
-- 💬 Ask me about **Java, Python, FastAPI, React**
+- 💬 Ask me about **Java, Python, FastAPI, Javascript, React, Docker, AWS**
 
 - 📫 How to reach me **saivenkat288@gmail.com**
 
